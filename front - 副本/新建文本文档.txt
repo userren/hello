@@ -1,0 +1,23 @@
+<ul class="banner-ul">
+                    <li>
+                        <a href="#">
+                            <img src="https://www.xfz.cn/form/class?acid=7QjEh8fRKr&adf=top.banner" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <img src="https://www.xfz.cn/form/class?acid=EpSnFk2C5q&intro=show&adf=top.banner" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <img src="https://www.xfz.cn/form/class?acid=7QjEh8fRKr&adf=top.banner" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <img src="https://www.xfz.cn/form/class?acid=EpSnFk2C5q&intro=show&adf=top.banner" alt="">
+                        </a>
+                    </li>
+
+                </ul>

@@ -1,0 +1,12 @@
+<ul class="banner-ul">
+                    <li>
+                        <a href="#">
+                            <img src="../../dist/images/123.jpg" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#"><img src="../../dist/images/123.jpg
+" ></a>
+                    </li>
+
+                </ul>
